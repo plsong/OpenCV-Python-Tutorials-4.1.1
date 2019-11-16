@@ -7,7 +7,7 @@
 第一章 开了头
 第二章 2.1 部分即将完成
 ## 目录
-### 1 [OpenCV简介](https://docs.opencv.org/4.1.1/da/df6/tutorial_py_table_of_contents_setup.html)
+### 1 [OpenCV简介](https://github.com/plsong/OpenCV-Python-Tutorials-4.1.1/tree/master/1OpenCV%E7%AE%80%E4%BB%8B)
 在电脑上如何配置OpenCV
 ### 2 [OpenCV中的GUI功能](https://docs.opencv.org/4.1.1/dc/d4d/tutorial_py_table_of_contents_gui.html)
 在本章，你将学习如何在OpenCV中显示、保存图片和视频，使用鼠标控制事件和创建滑动条
