@@ -6,7 +6,7 @@
 ### 2 [OpenCV中的GUI功能](https://docs.opencv.org/4.1.1/dc/d4d/tutorial_py_table_of_contents_gui.html)
 在本章，你将学习如何在OpenCV中显示、保存图片和视频，使用鼠标控制事件和创建滑动条
 ### 3 [核心操作](https://docs.opencv.org/4.1.1/d7/d16/tutorial_py_table_of_contents_core.html)
-学习OpenCV的基础操作，例如图像的像素处理，几何变换，等等
+学习OpenCV的基础操作，例如图像的像素处理，几何变换，代码优化和一些数学工具等等
 ### 4 [图像处理](https://docs.opencv.org/4.1.1/d2/d96/tutorial_py_table_of_contents_imgproc.html)
 在本章节，你将学习OpenCV中不同的图像处理的函数
 ### 5 [特征检测与描述](https://docs.opencv.org/4.1.1/db/d27/tutorial_py_table_of_contents_feature2d.html)
