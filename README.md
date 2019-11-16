@@ -1,6 +1,6 @@
 # OpenCV-Python-Tutorials-4.1.1
 * @author:plsong
-* Email:781637982@qq.com
+* email:781637982@qq.com
 
 > 翻译的英文[官方文档](https://docs.opencv.org/4.1.1/d6/d00/tutorial_py_root.html)，以便于作系统的学习OpenCV-python，还可以顺便提高英语.
 ## 当前进展
