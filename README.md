@@ -1,5 +1,11 @@
 # OpenCV-Python-Tutorials-4.1.1
-> 翻译官方的文档，以便于作系统的学习，也算是英语的提高,[文档地址](https://docs.opencv.org/4.1.1/d6/d00/tutorial_py_root.html)
+* @author:plsong
+* Email:781637982@qq.com
+
+> 翻译的英文[官方文档](https://docs.opencv.org/4.1.1/d6/d00/tutorial_py_root.html)，以便于作系统的学习OpenCV-python，还可以顺便提高英语.
+## 当前进展
+第一章 开了头
+第二章 2.1 部分即将完成
 ## 目录
 ### 1 [OpenCV简介](https://docs.opencv.org/4.1.1/da/df6/tutorial_py_table_of_contents_setup.html)
 在电脑上如何配置OpenCV
@@ -12,5 +18,4 @@
 ### 5 [特征检测与描述](https://docs.opencv.org/4.1.1/db/d27/tutorial_py_table_of_contents_feature2d.html)
 学习如何进行特征检测与描述
 ### 6 [视频分析处理](https://docs.opencv.org/4.1.1/da/dd0/tutorial_table_of_content_video.html)
-该部分学习不同的视频处理的技能，例如“目标追踪”
- 
+该部分学习不同的视频处理的技能，例如“目标追踪” 
