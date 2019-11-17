@@ -5,6 +5,7 @@ creat date:2019.11.16
 """
 
 import cv2 as cv
+import numpy as np
 from  matplotlib import pyplot as plt
 
 img = cv.imread('./src/messi.jpg',0)
