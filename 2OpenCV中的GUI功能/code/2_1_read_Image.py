@@ -8,7 +8,7 @@ import cv2 as cv
 
 img = cv.imread('../src/messi.jpg',0)
 cv.imshow('image',img)
-k = cv.waitKey(0)
+k = cv.waitKey(0) 
 if k == 27:
     cv.destroyAllWindows()
 elif k == ord('s'):
