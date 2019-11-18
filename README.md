@@ -4,8 +4,8 @@
 
 > 翻译的英文[官方文档](https://docs.opencv.org/4.1.1/d6/d00/tutorial_py_root.html)，以便于作系统的学习OpenCV-python，还可以顺便提高英语.
 ## 当前进展
-第一章 开了头
-第二章 2.1 部分即将完成
+第一章 进行中
+第二章 2.1 从图像开始 完成
 ## 目录
 ### 1 [OpenCV简介](https://github.com/plsong/OpenCV-Python-Tutorials-4.1.1/tree/master/1OpenCV%E7%AE%80%E4%BB%8B)
 在电脑上如何配置OpenCV
