@@ -9,7 +9,7 @@
 ## 目录
 ### 1 [OpenCV简介](https://github.com/plsong/OpenCV-Python-Tutorials-4.1.1/tree/master/1OpenCV%E7%AE%80%E4%BB%8B)
 在电脑上如何配置OpenCV
-### 2 [OpenCV中的GUI功能](https://docs.opencv.org/4.1.1/dc/d4d/tutorial_py_table_of_contents_gui.html)
+### 2 [OpenCV中的GUI功能](https://github.com/plsong/OpenCV-Python-Tutorials-4.1.1/tree/master/2OpenCV%E4%B8%AD%E7%9A%84GUI%E5%8A%9F%E8%83%BD)
 在本章，你将学习如何在OpenCV中显示、保存图片和视频，使用鼠标控制事件和创建滑动条
 ### 3 [核心操作](https://docs.opencv.org/4.1.1/d7/d16/tutorial_py_table_of_contents_core.html)
 学习OpenCV的基础操作，例如图像的像素处理，几何变换，代码优化和一些数学工具等等
